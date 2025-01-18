@@ -27,6 +27,21 @@ A interação do usuário foi feita por meio da interface gráfica nativa do Jav
 
 > Testes do programa
 
+## Moedas utilizadas
+Inspirado nos países da América Latina e nos Estados Unidos, selecionei 6 moedas principais para a conversão. No entanto, a aplicação foi projetada de forma flexível, permitindo a inclusão de outras moedas conforme necessário
+
+- Dólar Americano (USD)
+- Real Brasileiro (BRL)
+- Peso Argentino (ARS)
+- Peso Colombiano (COP)
+- Peso Chileno (CLP)
+- Sol Peruano (PEN)
+- Boliviano (BOB)
+
+<div align="center">
+    <img width="40%" src="assets/currencies.png" alt="Moedas utilizadas na conversão">
+</div>
+
 ## Conclusão
 Este projeto não apenas implementa um conversor de moedas funcional, mas também aplica uma estrutura de design MVC (Model-View-Controller), o que ajuda a organizar o código de forma mais escalável e modular. A interface gráfica foi construída utilizando Java Swing, o que representou um grande desafio, pois exigiu a adaptação de um programa inicialmente pensado para interação via console para uma aplicação visual.
 
