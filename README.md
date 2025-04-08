@@ -4,6 +4,13 @@
     <img width="30%" src="assets/bandage.png" alt="Insígnia da conclusão do Challenge">
 </div>
 
+## Ferramentas utilizadas
+
+<div align="left">
+  <img src="https://img.shields.io/badge/Java-F89820?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
+  <img src="https://img.shields.io/badge/Java_Swing-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java Swing">
+</div>
+
 ## Objetivos:
 > Desenvolver um Conversor de Moedas que ofereça interação textual (via console) com os usuários, proporcionando no mínimo 6 opções distintas de conversões de moedas em um menu. A taxa de conversão não será estática, mas sim dinamicamente obtida por meio de uma API, garantindo dados precisos e em tempo real para uma experiência mais atualizada e eficaz.
 
